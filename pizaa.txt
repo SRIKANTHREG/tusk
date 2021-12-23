@@ -6,3 +6,9 @@ recpies created by srikanth reddy
 1.go to domins.com
 2.select th pizza
 3.order
+chicken
+mutton
+biryani
+ginger
+ravi
+telugu
